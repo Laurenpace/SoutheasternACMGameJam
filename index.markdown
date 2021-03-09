@@ -4,4 +4,4 @@
 
 layout: home
 ---
-reeeeeeeeeeee
+The Southeastern ACM chapter is having a Game Jam March 27th. The event will run 11:00 AM - 9:30 PM. After 9:30 feel free to stick around to play the games everyone created and others. 
