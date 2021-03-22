@@ -14,8 +14,8 @@ Schedule
 12 - Teams start  
 5 - Break for food  
 6 - Teams start again  
-9 - Teams present projects
-9:30 - Conclude the Jam     
+9 - Teams present projects  
+9:30 - Conclude the Jam  
 10 - After event of gaming  
 
 
