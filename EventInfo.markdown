@@ -4,7 +4,7 @@ title: Event Info
 permalink: /EventInfo/
 ---
 
-<b>Theme:</b>
+<b>Theme: Running Out of Space</b>
 
 <b>Rules and Guidlines</b>  
 * No stolen projects. Starter code, assets, and scripts found are allowed to be  implemented, but whole projects downloaded and only slightly modified are not  allowed.  
